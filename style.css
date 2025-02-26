@@ -1,0 +1,38 @@
+.navigation {
+  background-color: midnightblue;
+}
+
+.nav-link {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.btn {
+  font-family: "Raleway", sans-serif;
+  background-color: rgba(200, 200, 200, 0.7);
+  color: white;
+  padding: 20px;
+  border-radius: 3px;
+}
+
+.bth:hover {
+  background-color: rgba(150, 150, 150, 0.7);
+  font-size: 17px;
+}
+
+.btn:active {
+  color: midnightblue;
+}
+
+.activity {
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.activity:hover {
+  opacity: 0.7;
+}
+
+.activity:active {
+  font-size: 20px;
+}
